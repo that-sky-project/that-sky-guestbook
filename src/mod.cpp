@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+// Copyright (C) 2026 that-sky-project
+//
 // that-sky-guestbook - multi-slot Sky guest (Local) account manager.
 //
 // Sky.exe build 426499 facts used here:

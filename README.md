@@ -129,4 +129,4 @@ python tools/parse_slots.py --legacy "%APPDATA%\guest-login\auth.bin"
 
 ## License
 
-MIT。见 [LICENSE](LICENSE)。
+GPL-3.0。见 [LICENSE](LICENSE)。
