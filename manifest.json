@@ -1,0 +1,18 @@
+{
+  "package_name": "that-sky-guestbook",
+  "version": "1.0.0",
+  "game_edition": 3,
+  "mod_name": "That Sky Guestbook",
+  "description": "Multi-slot local/guest account manager (technical demonstration).",
+  "main": "that-sky-guestbook.dll",
+  "dependencies": {},
+  "keywords": [
+    "account",
+    "login",
+    "guest",
+    "slots"
+  ],
+  "author": "that-sky-project",
+  "license": "MIT",
+  "website": "https://github.com/that-sky-project/that-sky-guestbook"
+}

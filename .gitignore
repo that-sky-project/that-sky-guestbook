@@ -1,0 +1,9 @@
+dist/
+*.o
+*.obj
+*.dll
+*.log
+*.bin
+html-sdk/
+.vscode/
+.idea/
