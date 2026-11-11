@@ -6,6 +6,8 @@ A client-side multi-slot local account manager for the Sky PC client (technical 
 
 > **重要 / Important**
 >
+> 项目包含AI生成代码
+> The project includes AI-generated code
 > 本项目仅演示客户端侧登录请求、账号槽位与凭证保存的实现方式。  
 > 正式服在服务端执行平台/账号验证；本 mod **不会也不能绕过**该验证，因此无法让正式服游客登录生效。  
 > This project only demonstrates the client-side login request path, slot storage and
